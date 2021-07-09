@@ -1,0 +1,3 @@
+fastbook
+voila
+pillow==8.2
